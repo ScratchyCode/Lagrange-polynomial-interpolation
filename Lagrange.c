@@ -1,4 +1,3 @@
-// Coded by Hashbang
 // Lagrange's polynomial interpolation
 #include <stdio.h>
 #include <math.h>
