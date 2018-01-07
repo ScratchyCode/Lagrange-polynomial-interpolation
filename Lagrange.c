@@ -1,4 +1,4 @@
-// Lagrange's polynomial interpolation
+// Lagrange's polynomial interpolation.
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
