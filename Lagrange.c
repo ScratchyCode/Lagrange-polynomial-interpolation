@@ -1,3 +1,4 @@
+// Coded by ScratchyCode
 // Lagrange's polynomial interpolation.
 #include <stdio.h>
 #include <math.h>
